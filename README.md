@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 
+![Portfolio-Resume-CV](https://user-images.githubusercontent.com/38998710/165367208-6e069883-364a-42e2-aeab-7d3860bb0cba.png)
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
